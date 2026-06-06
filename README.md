@@ -1,6 +1,6 @@
 # Projeto-C06
 Prompt usado:
-Gere um diagrama UML de classes seguindo rigorosamente a especificação UML 2.x para um sistema de pipeline de software em Java.
+Gere um diagrama UML de classes para um sistema de pipeline de software em Java.
 
 Classes e interfaces:
 
