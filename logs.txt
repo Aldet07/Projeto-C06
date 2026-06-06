@@ -1,0 +1,6 @@
+Iniciando etapa: Build
+Etapa concluída: Build
+Iniciando etapa: Testes
+Etapa concluída: Testes
+Iniciando etapa: Deploy
+Etapa concluída: Deploy
